@@ -1,0 +1,40 @@
+Test suite Practica04-test: RUNNING...
+
+Tests: Conflicto
+  Caso: Con cláusula vacía [✔]
+  Caso: Sin cláusula vacía [✔]
+Tests: Éxito
+  Caso: Conjunto de cláusulas vacío [✔]
+  Caso: Conjunto de cláusulas no vacío [✔]
+Tests: Cláusula unitaria
+  Caso: Literal True [✔]
+  Caso: Literal False [✔]
+  Caso: Sin Literales [✔]
+Tests: Eliminación
+  Caso: Literal True [✔]
+  Caso: Literal False [✔]
+  Caso: Sin Literales [✔]
+Tests: Reducción
+  Caso: Literal True [✔]
+  Caso: Literal False [✔]
+  Caso: Sin Literales [✔]
+Tests: Separación
+  Caso: Literal True [✔]
+  Caso: Literal True [✔]
+Tests: Heurística
+  Caso: Un solo máximo [✔]
+  Caso: Dos máximos [✔]
+Tests: dpll
+  Caso: Un solo modelo [✔]
+  Caso: Tautología [✔]
+  Caso: Contradicción [✔]
+Tests: dpll2
+  Caso: Un solo modelo [✔]
+  Caso: Tautología [✔]
+  Caso: Contradicción [✔]
+  Caso: Truco [✔]
+
+Finished in 0.0010 seconds
+24 examples, 0 failures
+Test suite Practica04-test: PASS
+Test suite logged to: /home/jatniel/practicas/logicaComputacional/LC2026-2-Practica04/dist-newstyle/build/x86_64-linux/ghc-9.8.4/Practica04-0.1.0.0/t/Practica04-test/test/Practica04-0.1.0.0-Practica04-test.log
